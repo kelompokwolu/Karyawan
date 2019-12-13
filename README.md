@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# PWFL_UNISNU_-E-_-inventaris_barang-
-161240000470,161240000561,161240000479,161240000539
+# PWFL_UNISNU_-E-_-Sistem Data Karywan-
 =======
 # Karyawan
 sistem untuk input data karyawan dan juga absensi
